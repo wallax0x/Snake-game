@@ -33,7 +33,7 @@ Este método permite que você tenha acesso a todo o código do projeto.
 
 1.  **Clone o repositório:**
     ```sh
-    git clone [https://github.com/wallax0x/Snake-game.git](https://github.com/wallax0x/Snake-game.git)
+    git clone https://github.com/wallax0x/Snake-game.git
     ```
 2.  **Navegue até a pasta do projeto:**
     ```sh
@@ -49,5 +49,5 @@ Este método permite que você tenha acesso a todo o código do projeto.
 Este método baixa e executa o jogo com apenas dois comandos.
 
 ```sh
-wget [https://raw.githubusercontent.com/wallax0x/Snake-game/main/snake8.py](https://raw.githubusercontent.com/wallax0x/Snake-game/main/snake8.py)
+wget https://raw.githubusercontent.com/wallax0x/Snake-game/main/snake8.py
 python3 snake8.py
